@@ -1,8 +1,15 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">Hi 👋! My name is  Jyothsnasri and I'm a Java Full Stack Trainee, from Rajahmundry.</h2>
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F133927413%2FCREATIVE-CODING-EXPLORATIONS-III&psig=AOvVaw3x5YcI3ici6Onkfs5jzTko&ust=1741256508927000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMipi6Tc8osDFQAAAAAdAAAAABAQ"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jyothsnasri-333&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jyothsnasri-333&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9d0cbf133927413.61ca3c69b918e.gif"  />
 
 ###
 
@@ -29,12 +36,6 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Jyothsnasri-333/count.svg?"  />
 </div>
 
 ###
